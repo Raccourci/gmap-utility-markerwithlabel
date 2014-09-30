@@ -1,0 +1,21 @@
+{
+  "name": "gmap-utility-markerwithlabel",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Raccourci/gmap-utility-markerwithlabel",
+  "authors": [
+    "Clément LAMOUREUX <clement@raccourci.fr>"
+  ],
+  "description": "Bower component for MarkerWithLabel, by google-maps-utility-library-v3",
+  "main": "markerwithlabel.js",
+  "keywords": [
+    "markerwithlabel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
